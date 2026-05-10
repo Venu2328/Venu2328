@@ -1,4 +1,4 @@
-## Hi there 👋
+## Heyy Gentle people!! 👀👊
 🕸️I am Founder @SciPhyLabs , EdTech platform on which education is taught with 400+ Interactive simulations and research driven learning systems.
 
 🧑‍💻 I am a Computer Science student and am exploring programming, databases, software Engineering and development.
