@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/1234252527.svg)](https://doi.org/10.5281/zenodo.20113493)
 ## Heyy Gentle people!! 👀👊
 🕸️I am Founder @SciPhyLabs , EdTech platform on which education is taught with 400+ Interactive simulations and research driven learning systems.
 
