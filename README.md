@@ -2,161 +2,200 @@
 
 
 
-<!-- ===================================================== -->
-<!-- SREERAM VENUGOPAL | PERSONAL IDENTITY SYSTEM           -->
-<!-- Oxblood × Parchment × Terracotta                       -->
-<!-- ===================================================== -->
+<!-- ==========================================================
+     VENU2328 — CREATIVE CHAOS / PERSONAL IDENTITY SYSTEM
+     OXBLOOD RED × PARCHMENT × ESPRESSO
+     ========================================================== -->
+
+<!-- [00] ANIMATED POSTER HEADER -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:65242B,35:852B32,70:B96649,100:D09A79&height=210&section=header&text=SREERAM%20VENUGOPAL&fontSize=43&fontColor=F4EBDD&fontAlignY=37&desc=FOUNDER%20%2F%20AUTHOR%20%2F%20RESEARCHER%20%2F%20DEVELOPER&descSize=14&descAlignY=59&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:641E28,30:922D36,65:B84F43,100:D18B70&height=230&section=header&text=SREERAM%20VENUGOPAL&fontSize=46&fontColor=F8EBDD&fontAlignY=37&desc=FOUNDER%20%E2%9C%B3%20RESEARCHER%20%E2%9C%B3%20AUTHOR%20%E2%9C%B3%20BUILDER&descSize=14&descAlignY=59&animation=fadeIn"/>
 
-<img src="https://img.shields.io/badge/INDEPENDENT-FOUNDER-852B32?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RESEARCH-DRIVEN-B96649?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/TECHNOLOGY-FOCUSED-302421?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/INTERNET%20PERSONALITY-001-852B32?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CREATIVE%20TECHNOLOGIST-ONLINE-B96649?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STATUS-ALWAYS%20BUILDING-302421?style=for-the-badge"/>
 
 <br/><br/>
 
 <a href="https://doi.org/10.5281/zenodo.20113496">
-<img src="https://img.shields.io/badge/RESEARCH%20DOI-10.5281%2Fzenodo.20113496-852B32?style=for-the-badge&logo=zenodo&logoColor=F4EBDD"/>
+<img src="https://img.shields.io/badge/✳_RESEARCH_DOI-10.5281%2Fzenodo.20113496-852B32?style=for-the-badge"/>
 </a>
 
 <br/><br/>
 
-# Hello, I'm Sreeram Venugopal.
-
-### Engineering ideas into interactive experiences.
-
-I am the founder of **SciPhyLabs**, an educational technology initiative focused on transforming how science and physics are experienced through interactive simulations, digital learning systems and research-driven educational resources.
-
-My interests span software engineering, artificial intelligence, scientific research, computational thinking and the intersection of technology and education.
+<em>Not here to fit the template. Here to build beyond it.</em>
 
 <br/>
 
-<a href="https://sreeramvenugopal.com">
-<img src="https://img.shields.io/badge/PERSONAL%20WEBSITE-852B32?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-<a href="https://sciphylabs.com">
-<img src="https://img.shields.io/badge/SCIPHylabs-B96649?style=for-the-badge&logo=atom&logoColor=white"/>
-</a>
-<a href="https://github.com/Venu2328">
-<img src="https://img.shields.io/badge/GITHUB-302421?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://orcid.org/0009-0009-2916-7633">
-<img src="https://img.shields.io/badge/ORCID-Research-852B32?style=for-the-badge&logo=orcid&logoColor=white"/>
-</a>
+<a href="#about">ABOUT</a> ✳
+<a href="#projects">PROJECTS</a> ✳
+<a href="#stack">TOOLBOX</a> ✳
+<a href="#analytics">ANALYTICS</a> ✳
+<a href="#connect">CONNECT</a>
 
 </div>
 
 ---
 
+<!-- [01] INTRODUCTION -->
+
+<a id="about"></a>
+
 <div align="center">
 
-## 01 / PROFESSIONAL OVERVIEW
+# HEY, INTERNET. I'M SREERAM. 👋
 
-*Building at the intersection of science, software and intelligent technology.*
+### SCIENCE × SOFTWARE × CURIOSITY
+
+**Founder of SciPhyLabs · Researcher · Author · Computer Science Student**
 
 </div>
+
+I'm interested in building things that make complicated ideas easier to understand, explore and experience.
+
+Currently developing **SciPhyLabs**, an interactive-first STEM education initiative bringing together physics simulations, digital learning resources and research-driven educational experiences.
+
+I also explore software engineering, artificial intelligence, web technologies and scientific research.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ◈ SCIENCE & EDUCATION
+**[01] WHAT I'M BUILDING 🚀**
 
-Developing SciPhyLabs as an interactive-first STEM ecosystem.
+- SciPhyLabs and interactive STEM systems
+- Digital educational experiences
+- Web applications and software projects
+- Research-oriented technical experiments
 
-- Physics simulations
-- Digital educational resources
-- Interactive learning environments
-- Research-backed educational content
+</td>
+<td width="50%" valign="top">
+
+**[02] WHAT I'M EXPLORING 🧪**
+
+- Artificial intelligence and machine learning
+- Software architecture
 - Computational science
-
-</td>
-<td width="50%" valign="top">
-
-### ◈ SOFTWARE & TECHNOLOGY
-
-Exploring the engineering principles behind modern digital systems.
-
-- Full-stack development
-- Web application architecture
-- Database systems
-- Cloud infrastructure
-- Scalable software design
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ◈ ARTIFICIAL INTELLIGENCE
-
-Exploring intelligent applications and emerging AI systems.
-
-- Machine learning
-- AI-assisted development
-- Intelligent educational systems
-- LLM applications
-- AI research and experimentation
-
-</td>
-<td width="50%" valign="top">
-
-### ◈ RESEARCH & WRITING
-
-Interested in communicating technical knowledge through research and structured writing.
-
-- Scientific research
-- Technical documentation
-- Research publications
-- STEM education
-- Interdisciplinary exploration
+- Scientific communication
+- Emerging technology
 
 </td>
 </tr>
 </table>
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/BASED_IN-PUDUCHERRY,_INDIA-852B32?style=flat-square"/>
+<img src="https://img.shields.io/badge/APPROACH-CURIOSITY_FIRST-B96649?style=flat-square"/>
+<img src="https://img.shields.io/badge/MINDSET-EXPERIMENT._BUILD._REPEAT.-302421?style=flat-square"/>
+
+</div>
+
 ---
+
+<!-- [02] FEATURED PROJECTS -->
+
+<a id="projects"></a>
 
 <div align="center">
 
-## 02 / SELECTED PROJECTS
+# THE PROJECT ARCHIVE. 📂
 
-*Ideas translated into software, systems and practical experiences.*
+### IDEAS OUT OF THE NOTES APP AND INTO THE WORLD.
 
 </div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
+
+<div align="center">
+
+### ✳ PROJECT 001
+
+# SCIPH YLABS
+
+<img src="https://img.shields.io/badge/EDUCATIONAL_TECHNOLOGY-852B32?style=for-the-badge"/>
+
+</div>
+
+An interactive-first STEM education ecosystem focused on making physics and science more visual, intuitive and accessible.
+
+**THE CONCEPT**
+
+- Interactive physics simulations
+- Research-driven learning resources
+- Digital masterbooks and study systems
+- AI-assisted educational experiences
+
+<div align="center">
+
+<a href="https://sciphylabs.com">
+<img src="https://img.shields.io/badge/EXPLORE_SCIPH YLABS-B96649?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 
 <a href="https://github.com/Venu2328/SciPhyLabs2026">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Venu2328&repo=SciPhyLabs2026&bg_color=F4EBDD&title_color=852B32&text_color=493A33&icon_color=B96649&border_color=D9C4A5&hide_border=false"/>
-
+<img src="https://img.shields.io/badge/SOURCE_CODE-302421?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-**SCIPH YLABS · EDUCATIONAL TECHNOLOGY**
-
-An interactive-first STEM education ecosystem combining physics simulations, learning resources and digital educational experiences.
-
-[Explore SciPhyLabs →](https://sciphylabs.com)
+</div>
 
 </td>
 <td width="50%" valign="top">
 
+<div align="center">
+
+### ✳ PROJECT 002
+
+# PERSONAL DEV LAB
+
+<img src="https://img.shields.io/badge/DEVELOPMENT-302421?style=for-the-badge"/>
+
+</div>
+
+My personal development repository for programming experiments, technical projects and software engineering.
+
+**THE FOCUS**
+
+- Development experiments
+- Programming and implementation
+- Technical exploration
+- Learning through building
+
+<div align="center">
+
 <a href="https://github.com/Venu2328/SreeramVenugopal">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Venu2328&repo=SreeramVenugopal&bg_color=F4EBDD&title_color=852B32&text_color=493A33&icon_color=B96649&border_color=D9C4A5&hide_border=false"/>
-
+<img src="https://img.shields.io/badge/EXPLORE_REPOSITORY-852B32?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-**PERSONAL TECHNOLOGY & DEVELOPMENT**
+</div>
 
-A space for personal development, programming experiments and technical projects.
+</td>
+</tr>
+</table>
 
-[Explore repository →](https://github.com/Venu2328/SreeramVenugopal)
+<div align="center">
+
+### THE ACTUAL REPOSITORY RECEIPTS 👇
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+<a href="https://github.com/Venu2328/SciPhyLabs2026">
+<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Venu2328&repo=SciPhyLabs2026&theme=default&bg_color=F4EBDD&title_color=852B32&text_color=493A33&icon_color=B96649&border_color=D9C4A5"/>
+</a>
+
+</td>
+<td width="50%">
+
+<a href="https://github.com/Venu2328/SreeramVenugopal">
+<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Venu2328&repo=SreeramVenugopal&theme=default&bg_color=F4EBDD&title_color=852B32&text_color=493A33&icon_color=B96649&border_color=D9C4A5"/>
+</a>
 
 </td>
 </tr>
@@ -164,97 +203,147 @@ A space for personal development, programming experiments and technical projects
 
 ---
 
+<!-- [03] TECH STACK -->
+
+<a id="stack"></a>
+
 <div align="center">
 
-## 03 / TECHNOLOGY & ENGINEERING
+# THE DIGITAL TOOLBOX. 🧰
 
-*Tools, frameworks and technologies I work with and explore.*
+### SOFTWARE IS THE MEDIUM. CURIOSITY IS THE ENGINE.
 
 </div>
 
-### PROGRAMMING LANGUAGES
+### 01 — PROGRAMMING LANGUAGES
 
 <p align="left">
-<img src="https://img.shields.io/badge/JavaScript-302421?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/TypeScript-852B32?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-B96649?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PYTHON-852B32?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TYPESCRIPT-302421?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-B96649?style=for-the-badge&logo=javascript&logoColor=white"/>
 </p>
 
-### FRONTEND & APPLICATION DEVELOPMENT
+### 02 — FRONTEND & WEB DEVELOPMENT
 
 <p>
-<img src="https://img.shields.io/badge/React-852B32?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-302421?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/REACT-852B32?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/NEXT.JS-302421?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-B96649?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-852B32?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-### BACKEND, DATABASE & INFRASTRUCTURE
+### 03 — BACKEND & DATABASE
 
 <p>
-<img src="https://img.shields.io/badge/Supabase-852B32?style=for-the-badge&logo=supabase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-B96649?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-302421?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-D65D3C?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-302421?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/SUPABASE-852B32?style=for-the-badge&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/NODE.JS-B96649?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 </p>
 
-### ENGINEERING ECOSYSTEM
+### 04 — DEPLOYMENT & DEVELOPER TOOLS
 
 <p>
-<img src="https://img.shields.io/badge/AI%20%26%20ML-852B32?style=flat-square"/>
-<img src="https://img.shields.io/badge/LLM%20Applications-B96649?style=flat-square"/>
-<img src="https://img.shields.io/badge/Cloud%20Deployment-302421?style=flat-square"/>
-<img src="https://img.shields.io/badge/Database%20Systems-852B32?style=flat-square"/>
-<img src="https://img.shields.io/badge/Web%20Architecture-B96649?style=flat-square"/>
-<img src="https://img.shields.io/badge/Interactive%20Simulation-302421?style=flat-square"/>
-<img src="https://img.shields.io/badge/Research%20Technology-852B32?style=flat-square"/>
+<img src="https://img.shields.io/badge/VERCEL-302421?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/GIT-B96649?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-852B32?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
+
+### 05 — FIELDS I'M EXPLORING
+
+<p>
+<img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-852B32?style=flat-square"/>
+<img src="https://img.shields.io/badge/MACHINE_LEARNING-B96649?style=flat-square"/>
+<img src="https://img.shields.io/badge/LLM_APPLICATIONS-302421?style=flat-square"/>
+<img src="https://img.shields.io/badge/SCIENTIFIC_COMPUTING-852B32?style=flat-square"/>
+<img src="https://img.shields.io/badge/INTERACTIVE_SIMULATION-B96649?style=flat-square"/>
+<img src="https://img.shields.io/badge/SOFTWARE_ARCHITECTURE-302421?style=flat-square"/>
+</p>
+
+<details>
+<summary><b>🧪 THE EXPERIMENTAL LAB — MORE ABOUT MY TECH INTERESTS</b></summary>
+
+<br/>
+
+| Domain | Interests |
+|:--|:--|
+| AI | Intelligent systems, LLM applications |
+| Engineering | Full-stack development, architecture |
+| Databases | Data modelling, database systems |
+| Education | Simulation, interactive learning |
+| Research | Scientific communication, experimentation |
+
+</details>
 
 ---
 
+<!-- [04] GITHUB ANALYTICS -->
+
+<a id="analytics"></a>
+
 <div align="center">
 
-## 04 / GITHUB PERFORMANCE
+# THE NUMBERS DON'T LIE. 📊
 
-*An evolving record of programming, experimentation and development.*
+### LIVE FROM MY GITHUB ACTIVITY.
+
+<img src="https://img.shields.io/badge/DATA_SOURCE-GITHUB-852B32?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/MODE-LIVE_STATISTICS-B96649?style=for-the-badge"/>
+
+<br/><br/>
 
 </div>
 
 <table>
 <tr>
-<td width="50%">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Venu2328&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=F4EBDD&title_color=852B32&text_color=493A33&icon_color=B96649&border_color=D9C4A5&rank_icon=github"/>
+<td width="50%" valign="top">
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Venu2328&show_icons=true&include_all_commits=true&hide_border=false&bg_color=F4EBDD&title_color=852B32&text_color=493A33&icon_color=B96649&border_color=D9C4A5&rank_icon=github"/>
+
 </td>
-<td width="50%">
+<td width="50%" valign="top">
+
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venu2328&layout=donut&langs_count=8&hide_border=false&bg_color=F4EBDD&title_color=852B32&text_color=493A33&border_color=D9C4A5"/>
+
 </td>
 </tr>
 </table>
 
-### CONTRIBUTION STREAK
-
 <div align="center">
 
-<img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=Venu2328&theme=default&hide_border=false&background=F4EBDD&ring=852B32&fire=B96649&currStreakLabel=852B32&sideLabels=493A33&dates=766257&currStreakNum=302421&sideNums=302421&border=D9C4A5"/>
+### 🔥 THE CONTRIBUTION STREAK
 
-</div>
+<img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=Venu2328&hide_border=false&background=F4EBDD&ring=852B32&fire=B96649&currStreakLabel=852B32&sideLabels=493A33&dates=766257&currStreakNum=302421&sideNums=302421&border=D9C4A5"/>
 
-### DEVELOPMENT ACTIVITY
+<br/>
 
-<div align="center">
+### 📈 THE ACTIVITY FREQUENCY
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Venu2328&bg_color=F4EBDD&color=493A33&line=852B32&point=B96649&area=true&area_color=D9A18C&hide_border=false&custom_title=DEVELOPMENT%20ACTIVITY"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Venu2328&bg_color=F4EBDD&color=493A33&line=852B32&point=B96649&area=true&area_color=D9A18C&hide_border=false&custom_title=MY%20GITHUB%20ACTIVITY"/>
 
 </div>
 
 ---
 
+<!-- [05] CONTRIBUTION SNAKE -->
+
 <div align="center">
 
-## 05 / ACHIEVEMENTS & CONTRIBUTIONS
+# THE CONTRIBUTION SNAKE. 🐍
 
-*Recognizing consistency, collaboration and open-source development.*
+### EATING THROUGH THE COMMIT GRID.
+
+<img width="100%" src="https://raw.githubusercontent.com/Venu2328/Venu2328/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
+
+</div>
+
+---
+
+<!-- [06] TROPHIES -->
+
+<div align="center">
+
+# THE TROPHY WALL. 🏆
+
+### LITTLE WINS. LONG-TERM PROGRESS.
 
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Venu2328&theme=flat&no-frame=false&no-bg=true&column=6&margin-w=10&margin-h=10"/>
 
@@ -262,30 +351,30 @@ A space for personal development, programming experiments and technical projects
 
 ---
 
+<!-- [07] RESEARCH IDENTITY -->
+
 <div align="center">
 
-## 06 / RESEARCH & DIGITAL IDENTITY
+# THE RESEARCH CORNER. 🔬
 
-*Connecting technical development with research and knowledge.*
+### BEYOND THE CODE EDITOR.
+
+</div>
 
 <table>
 <tr>
 <td align="center" width="33%">
 
-### DOI
-
 <a href="https://doi.org/10.5281/zenodo.20113496">
 
-<img src="https://img.shields.io/badge/ZENODO-852B32?style=for-the-badge&logo=zenodo&logoColor=white"/>
+<img src="https://img.shields.io/badge/DOI-852B32?style=for-the-badge&logo=zenodo&logoColor=white"/>
 
 </a>
 
-Research publication
+**PUBLICATION**
 
 </td>
 <td align="center" width="33%">
-
-### ORCID
 
 <a href="https://orcid.org/0009-0009-2916-7633">
 
@@ -293,12 +382,10 @@ Research publication
 
 </a>
 
-Researcher identity
+**RESEARCH IDENTITY**
 
 </td>
 <td align="center" width="33%">
-
-### WEBSITE
 
 <a href="https://sreeramvenugopal.com">
 
@@ -306,45 +393,64 @@ Researcher identity
 
 </a>
 
-Personal presence
+**PERSONAL WEBSITE**
 
 </td>
 </tr>
 </table>
 
-</div>
+<details>
+<summary><b>📚 RESEARCH & WRITING — EXPLORE MY WORK</b></summary>
+
+<br/>
+
+- [Zenodo research record](https://doi.org/10.5281/zenodo.20113496)
+- [ORCID researcher profile](https://orcid.org/0009-0009-2916-7633)
+- [Personal website](https://sreeramvenugopal.com)
+
+</details>
 
 ---
 
+<!-- [08] CONNECT -->
+
+<a id="connect"></a>
+
 <div align="center">
 
-## 07 / CONNECT & COLLABORATE
+# OKAY, YOUR TURN. ✳
 
-*Open to meaningful conversations, technical collaboration and opportunities to build.*
+### GOT AN INTERESTING IDEA? LET'S TALK.
+
+I'm interested in connecting with people working across software, science, AI, research, education and creative technology.
+
+<br/>
 
 <a href="https://github.com/Venu2328">
-<img src="https://img.shields.io/badge/GitHub-302421?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-302421?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://linkedin.com/in/sreeramvenugopal">
-<img src="https://img.shields.io/badge/LinkedIn-852B32?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-852B32?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://sreeramvenugopal.com">
-<img src="https://img.shields.io/badge/Portfolio-B96649?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/WEBSITE-B96649?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 <a href="https://sciphylabs.com">
-<img src="https://img.shields.io/badge/SciPhyLabs-302421?style=for-the-badge&logo=atom&logoColor=white"/>
+<img src="https://img.shields.io/badge/SCIPH YLABS-852B32?style=for-the-badge&logo=atom&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Venu2328&label=PROFILE%20VISITORS&color=852B32&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Venu2328&label=YOU'VE_VISITED&color=852B32&style=for-the-badge"/>
 
 <br/><br/>
 
-**SCIENCE. SOFTWARE. SYSTEMS.**
+<em>MAKE SOMETHING INTERESTING. MAKE IT MATTER.</em>
 
-*Building with curiosity. Engineering with intention.*
+<br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D09A79,45:B96649,100:65242B&height=125&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D18B70,45:B84F43,100:641E28&height=150&section=footer"/>
 
 </div>
+
+<!-- END OF TRANSMISSION -->
